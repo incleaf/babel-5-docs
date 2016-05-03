@@ -2,8 +2,8 @@
 title: Babel
 tagline: The compiler for writing next generation JavaScript
 description: The compiler for writing next generation JavaScript
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://incleaf.github.io/babel-5-docs/" # the base hostname & protocol for your site
+baseurl: "/babel-5-docs/" # the subpath of your site, e.g. /blog/
+url: "http://incleaf.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: babel
 exclude: ["node_modules"]
