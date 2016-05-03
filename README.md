@@ -1,9 +1,5 @@
-# babel.github.io
+# Notice
 
-This is the source for the [babeljs.io](https://babeljs.io) website, powered by [Jekyll](http://www.jekyllrb.com/).
+All of data in this repository is from https://github.com/babel/babel.github.io
 
-This repo also contains babel's [source documentation](https://github.com/babel/babel.github.io/tree/master/docs).
-
-### Setup
-
-To start the web server on your machine, check out this repo and run `make serve`.
+Commit hash: [`862b43db93e48762671267034a50c30c00e433e2`](https://github.com/babel/babel.github.io/tree/862b43db93e48762671267034a50c30c00e433e2)
